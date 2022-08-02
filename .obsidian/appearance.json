@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "",
+  "textFontFamily": "Iosevka SS14",
+  "monospaceFontFamily": "Iosevka Term SS14",
+  "baseFontSize": 26,
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
+}
